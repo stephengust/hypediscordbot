@@ -4,7 +4,7 @@
   "description": "Beta Bot for the HYPE main Discord server.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node_modules"
   },
   "repository": {
     "type": "git",
