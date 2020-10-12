@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/stephengust/hypediscordbot/issues"
   },
-  "homepage": "https://github.com/stephengust/hypediscordbot#readme"
+  "homepage": "https://github.com/stephengust/hypediscordbot#readme",
+  "keywords": []
 }
